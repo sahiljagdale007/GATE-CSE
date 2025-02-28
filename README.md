@@ -39,21 +39,7 @@ This repository is divided into multiple parts, covering all the necessary topic
 1️⃣2️⃣ **[Engineering Mathematics](https://www.goclasses.in/courses/Engineering-Mathematics)**  
 1️⃣3️⃣ **[Aptitude](https://www.youtube.com/watch?v=s4nORaKp2CQ)**  
 
----
 
-## 🚀 Additional Learning Resources
-📌 Check out this **[YouTube video](https://www.youtube.com/watch?v=Duiyk9GyPW0&t=10s)** for more insights into GATE CSE preparation.
 
-📌 Stay tuned for more updates and resources!
 
-📌 Feel free to contribute by adding more resources or reporting broken links.
-
----
-
-## 🌟 Contribute & Support
-If you find this repository helpful, consider giving it a ⭐ and sharing it with your friends. Contributions are always welcome!
-
----
-
-Happy Learning! 🚀
 
