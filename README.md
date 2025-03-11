@@ -13,7 +13,7 @@ This repository is divided into multiple parts, covering all the necessary topic
 ---
 
 ## 🔹 Part 1: Programming & Data Structures
-1️⃣ **[C Programming](https://www.youtube.com/watch?v=irqbmMNs2Bo&list=PLDzeHZWIZsTqcmj2xE4Dr6dCfYEOUYoK4)**  
+1️⃣ **[C Programming](https://www.youtube.com/watch?v=lqbntQ_svOs&list=PL3eEXnCBViH_Phqkk2k_WFWHz0rDBBubC&index=3)**  
 2️⃣ **[Data Structures](https://www.youtube.com/watch?v=6mPNr5obYPo&list=PLDzeHZWIZsTpukecmA2p5rhHM14bl2dHU)**  
 3️⃣ **[Algorithms](https://www.youtube.com/watch?v=Gm5t3eP3CtQ&list=PLDzeHZWIZsTog0hK7Yxn2cj-ucWmtfHp5)**  
 
